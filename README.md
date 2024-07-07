@@ -1,7 +1,7 @@
 
 # Hi 👋 I am Naveen !
 
-<a href="(https://www.credly.com/badges/e0e05553-cdb0-4bc4-8c94-9de41130f731/public_url)"
+<a href="https://www.credly.com/badges/e0e05553-cdb0-4bc4-8c94-9de41130f731/public_url"
    target="_blank" rel="external nofollow">
       <img src="github-foundations.png" 
            width="250" align = "right"/><br />
