@@ -7,11 +7,15 @@
    target="_blank" rel="external nofollow">
       <img src="github-foundations.png" 
            width="250" align = "right"/><br />
-</a>
-![GSVOPq6XAAEkWdu](https://github.com/user-attachments/assets/9f2f5969-c822-4f57-8c3b-ad47a73fa388)
 - 🌐 Visit my [blog] for more information about what I am upto nowadays.
 - ✍️ Follow me on [Medium] for more written content.
- 
+     
+</a>
+
+ <img src="https://github.com/user-attachments/assets/9f2f5969-c822-4f57-8c3b-ad47a73fa388" 
+           width="600" align = "left"/><br />
+
+
 ---
 
 <p align="center">
