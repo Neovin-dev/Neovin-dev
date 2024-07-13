@@ -11,16 +11,17 @@
 - ✍️ Follow me on [Medium] for more written content.
      
 </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sisyphusisstillcarrying&theme=dark&hide_border=true" width="400" aligh = "left">
+</p>
 
  <img src="https://github.com/user-attachments/assets/9f2f5969-c822-4f57-8c3b-ad47a73fa388" 
-           width="600" align = "left"/><br />
+           width="600" align = "center"/><br />
 
 
 ---
+</br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sisyphusisstillcarrying&theme=dark&hide_border=true" width="400">
-</p>
 
 ---
 <!---
