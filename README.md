@@ -4,11 +4,11 @@
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sisyphusisstillcarrying/sisyphusisstillcarrying/main/ASCII-art.png">
-        <img src="https://raw.githubusercontent.com/sisyphusisstillcarrying/sisyphusisstillcarrying/main/ASCII-art.png" alt="Naveen Singh's GitHub Profile README" height="400">
+        <img src="https://raw.githubusercontent.com/sisyphusisstillcarrying/sisyphusisstillcarrying/main/ASCII-art.png" alt="Naveen Singh's GitHub Profile README" height="350">
       </picture>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/9f2f5969-c822-4f57-8c3b-ad47a73fa388" height="400">
+      <img src="https://github.com/user-attachments/assets/9f2f5969-c822-4f57-8c3b-ad47a73fa388" height="350">
     </td>
    
   </tr>
